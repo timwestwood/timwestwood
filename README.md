@@ -12,6 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+
+
+
+<a href="https://github.com/timwestwood">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=timwestwood&theme=dark&hide_border=false" />
+</a>
+-->
+<a href="https://github.com/timwestwood">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwestwood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</a>
 
 ## Employment
 ### Imperial College London (2020 - 2022) 
